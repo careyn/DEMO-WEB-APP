@@ -2,6 +2,7 @@ package com.example.wap.models;
 
 import javax.persistence.*;
 
+// Old example
 @Entity
 @Table(name="movies")
 public class Movie {

@@ -20,3 +20,5 @@ public class GenericDaoController {
         return dao.findAll(config, table);
     }
 }
+
+
